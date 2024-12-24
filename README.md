@@ -1,4 +1,4 @@
-# PBL 03 - Calculadora Básica
+# Calculadora Básica
 Este projeto contém um código em Java para realizar diversas operações matemáticas:  
 - Adição  
 - Subtração  
